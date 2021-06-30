@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/sercansebetci
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sercansebetci.github.io
+  * I am sercansebetci (https://keybase.io/sercansebetci) on keybase.
+  * I have a public key with fingerprint BF33 7635 4406 5C44 21DE  8293 C6E0 AE13 59BB 4267
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ef74fa456668450f0ed8a11680b2ebfbce65ca974253e874626d92660a4a58ef0a",
+      "fingerprint": "bf33763544065c4421de8293c6e0ae1359bb4267",
+      "host": "keybase.io",
+      "key_id": "c6e0ae1359bb4267",
+      "kid": "01018bc323255e4dc92bbabac58d0297aee0eb34cf09737ee911bc3e54657bd6e0d40a",
+      "uid": "f174915be13834daa908c5b76dc32219",
+      "username": "sercansebetci"
+    },
+    "service": {
+      "hostname": "sercansebetci.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1618286622,
+  "expire_in": 157680000,
+  "prev": "be89d285cff404c5c8961885ecde1efab545e8229ecf504c2128a467ecbfa66f",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNsAnicbZJ/TFVlGMcvoVcByzui+DExOBLVuhfOee/5eXelSZPRQJe5EJS4vO85
+77mcpHsu597LjxGJsMoiYKm4ImQjnGiiMMwKsBXULiOGEItMcAEZGsLKXFvIZnYO
+5X++/5z3vPt8v8/3eZ/324dDTeEhwdlzj+b1p7tDRgZOBUyFgZjNlQRSpQrCUUns
+x6sfXCxhn9+1X5EIB0FSgMQyR8uQZliW5WmGlEks8ZCiWJ5EACMZiZhlRChwNGDs
+mOdoFrCSAFiWhDRkeCyTkLASsuJxY82rKR6/botku51j7QxNk7qWpgElYR4IdpHF
+JMSUnREQogHL6cIi1Wco9HAI+nCKoupn+o9rNd4D+Pu5SYpHoh3YAcNgWhIFgBBE
+UGR4iQQCBzEmMbLTokwKnJ3DWKAoHccMzTIcknRbiV7NHVi1kymOFigG6aV4Oy1B
+KJC8yCCOlfQSgBIM0Ic1D3wN67S+E6HHhxH2iwpRZTUOShURG7drtPMgLMWt+IsC
+6L/+vJrqV0W1WIeK/H6vz2GY+Cu8hqoMI9f/fi6keCT9XnVFKdZ8iuohHJROin7F
+KECxFA94lgXASuByr6Jhl2IQDKePTl9GHVxqTAPzggR4RpRlmqRFRuQFXcozWJQw
+hWWIGJrRxwMELMqMDgAK8JBmOSwiGbKsTBgdlnhU3ZvTc0K30Zzi9kB/QMNE1eBA
+/hpTSLjJvPYh48GZwsMs958hRVhMnXNPNx/fizY0Xexb0qZUjX/u9rbenrZFPBJ7
+oIU4/Ozv5vFUYqri032Wm7HjCCljNdzFvrq3A+NOeC03Edq/yV+JDfacnLwa2rHp
+yaPxZVGW/GAEkSq+X2r7a8g9kPbb6fPvJPPnXrRlba5fudLNLce5Zw+2Z8/ynQta
+wkx9F3zrh8MXmu99AMxJw7cyq8WYXRPqd4cs92zdezO8sS8N1TRqCQXsREX9qUhg
+O/0FKtZuvFc8uTGv45/Co5d/ClieX18360jfsq8lqv3YV5NZo/SVtEH1jcSdy1va
+z1oAMz83eecIDgogsfWpMduFhO3Nj1lrLamf1IXFn8lZuDTTOVxWsBzft/Rq+uM/
+dp9pyYlu3To213D71gtpi1R/0ETsiPe8cvBdZ1PwrNQr9Xe1/ZI8s/3D6IzPi28O
+hm0aiVRTbyyb1Y+/r6+aupQzHXcsxHrn+N2NXdcyrudtnfvZPPrZ6KHaJqd1KaK5
+YLYx6KxteL2tZXduQ03c/NWkPSeOZNrak+72i73J65x/x+X64tnWsZmslJjI639k
+BdfhhBOZpl/nFz9Kqi1JWPA0fd2dUZk03bChuqknu3WNWB4RY5pJHDFHXX4zeiU0
+O70x1ZtVF1b05c7zB2rrd++gF8hC01C04xnnNrhrT2X5+pKSiZf/dD2R0dG/ND1c
+nTd3Uo5CPY+s/Rdq0r03
+=Napd
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sercansebetci
+
+==================================================================
