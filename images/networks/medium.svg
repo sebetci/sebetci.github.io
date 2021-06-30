@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   role="img"
+   viewBox="0 0 20 20"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="medium.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   width="20"
+   height="20">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Medium icon</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="13.670731"
+     inkscape:cx="14.822056"
+     inkscape:cy="9.7123598"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:document-rotation="0" />
+  <title
+     id="title2">Medium icon</title>
+  <circle
+     style="fill:#0e0e0e;fill-opacity:1;stroke:#000000;stroke-width:0.370943"
+     id="path837"
+     cx="10"
+     cy="10"
+     r="9.8145285" />
+  <path
+     d="m 10.937093,10.249999 a 5.2416599,5.2346044 0 0 1 -5.2185346,5.25 5.2416599,5.2346044 0 0 1 -5.21853497,-5.25 5.2416599,5.2346044 0 0 1 5.21853497,-5.2499994 5.2416599,5.2346044 0 0 1 5.2185346,5.2499994 z m 5.719577,0 c 0,2.725073 -1.163958,4.942083 -2.605414,4.942083 -1.441457,0 -2.613121,-2.21701 -2.613121,-4.942083 0,-2.7250725 1.171664,-4.9420815 2.613121,-4.9420815 1.441456,0 2.605414,2.217009 2.605414,4.9420815 m 2.34333,0 c 0,2.440249 -0.408541,4.42632 -0.917291,4.42632 -0.508749,0 -0.91729,-1.986071 -0.91729,-4.42632 0,-2.4402484 0.408541,-4.426319 0.91729,-4.426319 C 18.591459,5.82368 19,7.8097506 19,10.249999 Z"
+     id="path4"
+     style="fill:#ffffff;stroke-width:0.770313" />
+</svg>
