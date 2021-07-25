@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/sercansebetci
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sebetci.github.io
+  * I am sercansebetci (https://keybase.io/sercansebetci) on keybase.
+  * I have a public key with fingerprint BF33 7635 4406 5C44 21DE  8293 C6E0 AE13 59BB 4267
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ef74fa456668450f0ed8a11680b2ebfbce65ca974253e874626d92660a4a58ef0a",
+      "fingerprint": "bf33763544065c4421de8293c6e0ae1359bb4267",
+      "host": "keybase.io",
+      "key_id": "c6e0ae1359bb4267",
+      "kid": "01018bc323255e4dc92bbabac58d0297aee0eb34cf09737ee911bc3e54657bd6e0d40a",
+      "uid": "f174915be13834daa908c5b76dc32219",
+      "username": "sercansebetci"
+    },
+    "merkle_root": {
+      "ctime": 1627251550,
+      "hash_meta": "2047a401cd224b9db09da67352263f8716a642d9d4810595a710db25678abacc",
+      "seqno": 20443002
+    },
+    "revoke": {
+      "sig_ids": [
+        "749873b1586dadc3c7d4ecb6dbcae36c089aaf2afa22ac598e9c347613801d880f"
+      ]
+    },
+    "service": {
+      "hostname": "sebetci.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1627251577,
+  "expire_in": 157680000,
+  "prev": "4d3c0f81f08906982cfb20e65a6f929b1a7507edc9a024e4e3a52798e26cd0dc",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMQEAnicbVNtbBRFGL4CrbSKVpoIaSWRBYN8iLOzM7O7vUKhbWhBIwQsAUs9ZnZn
+r8ddb8vd3kmpFQuUrxq1YOWHYGuNLdKIEfwIny21tIBoRCBYGhRoABVEVCTIp7NV
+jDHun9nded7nfZ5n3ukY1N+TktB5akva3J05/oTP26tinvm3essrJGab5VJmhRTk
+fQsPmTzq+IIBU8qUgAwBt1RkUYQJIRrCwALc1KgsEw0wyJnFDE6wQXUVQaxwTUUE
+ElOHhACKKNa4Bag0TrICYT+PlEUCYUfQMktRVKJghICoRQjKJtegrhiEA8plBeuM
+IUhUUVhiR90KIY7RKB8fsMU/8eHrk/c/+Lu6gawxQ4EKxJgj09AhY5RRA2smgLpK
+OQecKciwgK4qKue6LAs4x4hglZmC1kR9umN9dJasIl3GTLTSFGRSqgPNwEwlpmgB
+Zd0FRnkkTEu5QIs3g4ajnHHHCEiV46RSHgmGuC9i246bsOEEXJxMoAqxjDEQLmm0
+xFfKHSrKIUAqRUA2TAgR000GdJMSVcEQEsXSVJlQgqCpm0iTAdYxVWVgMoiJqrkO
+DSEmyheGbSlTMCEFACgkRHjcDnK3ezTgF+FFpcwiSZjSVIXJWCMmFVYM1UTcYMRk
+BuUKMYCmU2pBalEIRXS6xnVDQSoRKQDZ1DRgScWVbrdIPGD0kbun9U8Kff7H+wNO
+SYz9dXBlEduxDTsktkscpyya6abjlJe5+Oc58/3N5GOBsCkGRlTEeSQasMMiLYH8
+T3CqOk7ii8oCEe4LuAisipkUj9uHxwUlMhUDWJpsCSOA6Bo0LCbmmWBKLB3qTKYq
+BioX00EBRBxxhWKoCpuQGCYw/50kETqp37UV8IepE4twqbJ977wBnoQUT1JiP/cm
+eVKSU+/er5g31XNa7YcmdS346lM0fcTibGvdwX1f12+6bD/2DpDnbh0xtGZOv7b1
+yfW1A0Z5Z2R1xnIXDXrkwUHX0rRvF+cUXbB3dO38NfOV4LaG4SdC7Q1zPoms8+dm
+XNh9/r353/3edj5/1+aKgnhd9qzbm642bpaLpV2/bX22+/0q3nhDrX9i28NNNHt3
+Z6t3ouSvrBi4tmfMlI4cZdj05WNRdWFyoVab9yZszL9zYUZqr3Y6La+5afCGAxWh
+D98aerYu+d7YrNLrY9uqWx691HOqy3tu1MsL4nvM9OCrX6w+e/Lcda+eteKn9ub8
+1dkbpj33kV3c3NJ6bOVTx37JmJlyOra/eupLuROdusLundP019rTQWhlBh54uCPx
+UlVcrlbk1qKid78pODHtbMGEkVfzsg8dPTK8Q7nhf3z/5oYv5Rdn5y8s/njA4otn
+pPsGV/X8fDy1eeDoFWtW/TBn+8HO3U7aZ297P3hjX+uM2rSlLalt6Yl7rrxQMuxK
+/UMbu880ZVUlTl7y+pBgb1POj5PWtiROqZs8tfLw8ND2jiGrSpd5uoeCeeUJf6xo
+Oj/6UB3wyqMT7Xsm1exVcgff2JI34U7VUtZ1Ez9w5JI988DJpbkXaw/25MAD3+94
+umkBrtm+LElubB1z7cmG9Jnsdvnh4tlrCsJLRmYff2ZP0sarSfn5twpvHj+Tujx6
+WS/on0XXlxUebbNjKfdn4N4/AcVz/uw=
+=EHPC
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sercansebetci
+
+==================================================================
