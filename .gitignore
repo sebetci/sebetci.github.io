@@ -5,19 +5,55 @@
 # Repository: https://github.com/github/gitignore                           #
 #############################################################################
 
-# Node rules:
-## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
-.grunt
+# Ignore all files starting with '.' or '~'
+.*
+~*
 
-## Dependency directory
-## Commenting this out is preferred by some people, see
-## https://docs.npmjs.com/misc/faq#should-i-check-my-node_modules-folder-into-git
-node_modules
+# Ignore node/grunt dependency directories
+node_modules/
 
-# Book build output
-_book
+# Ignore components loaded via Bower
+/_site
 
-# eBook build output
-*.epub
-*.mobi
-*.pdf
+# Ignore OS generated files
+ehthumbs.db
+Thumbs.db
+
+# Ignore editor files
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+
+# Ignore log files and databases
+*.log
+*.sql
+*.sqlite
+
+# Ignore compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Ignore packaged files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Ignore private/secret files
+*.der
+*.key
+*.pem
+
+# Track these files, id they exist
+!.gitignore
+!.editorconfig
+!.phpcs.xml.dist
+!.env.example
