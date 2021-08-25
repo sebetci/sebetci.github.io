@@ -91,7 +91,7 @@
 <div class="header">
     <h3 style="color:back;" align="center">Portfolio</h3>
     <p style="color:black;">
-        Visit my online portfolio at <a href="http://sercansebetci.github.io/">GitHub Pages</a>
+        Visit my online portfolio at <a href="http://sebetci.github.io/">GitHub Pages</a>
         <p></p>
         Contact me at <a href="mailto:sercansebetci@gmail.com">sercansebetci@gmail.com</a>.
     </p>
