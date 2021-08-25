@@ -67,23 +67,23 @@
     <img src="https://img.shields.io/netlify/4a808821-f643-42b2-96c5-7bbbd483c2a2" alt="Netlify Status">
   </a>
    
-  <a href="https://github.com/sercansebetci/sercansebetci.github.io/issues">
-    <img src="https://img.shields.io/github/issues/sercansebetci/sercansebetci.github.io.svg?style=flat" alt="GitHub Issues">
+  <a href="https://github.com/sebetci/sebetci.github.io/issues">
+    <img src="https://img.shields.io/github/issues/sebetci/sebetci.github.io.svg?style=flat" alt="GitHub Issues">
   </a>
     
-  <a href="https://sercansebetci.github.io">
-    <img src="https://img.shields.io/website/https/sercansebetci.github.io/index.html.svg" alt="Website">
+  <a href="https://sebetci.github.io">
+    <img src="https://img.shields.io/website/https/sebetci.github.io/index.html.svg" alt="Website">
   </a>
   
-  <a href="https://github.com/sercansebetci/sercansebetci.github.io/releases">
-    <img src="https://img.shields.io/github/release/sercansebetci/sercansebetci.github.io.svg" alt="GitHub release">
+  <a href="https://github.com/sebetci/sebetci.github.io/releases">
+    <img src="https://img.shields.io/github/release/sebetci/sebetci.github.io.svg" alt="GitHub release">
   </a>
   
-  <a href="https://github.com/sercansebetci/sercansebetci.github.io/blob/master/LICENSE">
+  <a href="https://github.com/sebetci/sebetci.github.io/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" alt="MIT License">
   </a>
   
-  <a href="https://codebeat.co/projects/github-com-sercansebetci-sercansebetci-github-io-master">
+  <a href="https://codebeat.co/projects/github-com-sebetci-sebetci-github-io-master">
     <img src="https://codebeat.co/badges/2ece0493-d114-435f-97cf-245d912dfb6f" alt="CodeBeat Badge">
   </a>
 </p>
