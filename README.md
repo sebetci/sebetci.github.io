@@ -15,37 +15,37 @@
 [comment]: # "####################################################################"
 
 <p align="center">
-    <a href="https://twitter.com/sercansebetci" target="_blank" rel="nofollow">
+    <a href="https://twitter.com/sercansebetci" target="_blank">
         <img src="https://github.com/sebetci/sebetci.github.io/blob/main/images/networks/twitter.svg" alt="Twitter" width="30px" height="30px" />
     </a> &nbsp;
-    <a href="https://github.com/sebetci" target="_blank" rel="nofollow">
+    <a href="https://github.com/sebetci" target="_blank">
         <img src="https://github.com/sebetci/sebetci.github.io/blob/main/images/networks/github.svg" alt="GitHub" width="30px" height="30px" />
     </a> &nbsp;
-    <a href="https://dev.to/@sercan" target="_blank" rel="nofollow">
+    <a href="https://dev.to/@sercan" target="_blank">
         <img src="https://github.com/sebetci/sebetci.github.io/blob/main/images/networks/dev.svg" alt="Dev.To" width="30px" height="30px" />
     </a> &nbsp;
-    <a href="https://hashnode.com/@sercan" target="_blank" rel="nofollow">
+    <a href="https://hashnode.com/@sercan" target="_blank">
         <img src="https://github.com/sebetci/sebetci.github.io/blob/main/images/networks/hashnode.svg" alt="HashNode" width="30px" height="30px" />
     </a> &nbsp;
-    <a href="https://www.reddit.com/user/sercansebetci" target="_blank" rel="nofollow">
+    <a href="https://www.reddit.com/user/sercansebetci" target="_blank">
         <img src="https://github.com/sebetci/sebetci.github.io/blob/main/images/networks/reddit.svg" alt="Reddit" width="30px" height="30px" />
     </a> &nbsp;
-    <a href="https://stackoverflow.com/users/15032688/" target="_blank" rel="nofollow">
+    <a href="https://stackoverflow.com/users/15032688/" target="_blank">
         <img src="https://github.com/sebetci/sebetci.github.io/blob/main/images/networks/stackoverflow.svg" alt="StackOverflow" width="30px" height="30px" />
     </a> &nbsp;
-    <a href="https://www.kaggle.com/sercansebetci" target="_blank" rel="nofollow">
+    <a href="https://www.kaggle.com/sercansebetci" target="_blank">
         <img src="https://github.com/sebetci/sebetci.github.io/blob/main/images/networks/kaggle.svg" alt="Kaggle" width="30px" height="30px" />
     </a> &nbsp;
-    <a href="https://www.hackerrank.com/sercansebetci" target="_blank" rel="nofollow" style="width:200%">
+    <a href="https://www.hackerrank.com/sercansebetci" target="_blank" style="width:200%">
         <img src="https://github.com/sebetci/sebetci.github.io/blob/main/images/networks/hackerrank.svg" alt="HackerRank" width="30px" height="30px" />
     </a> &nbsp;
-    <a href="https://codepen.io/sercansebetci" rel="nofollow" style="width:200%">
+    <a href="https://codepen.io/sercansebetci" style="width:200%">
         <img src="https://github.com/sebetci/sebetci.github.io/blob/main/images/networks/codepen.svg" alt="CodePen" width="30px" height="30px" />
     </a> &nbsp;
-    <a href="https://marmara.academia.edu/sercansebetci" target="_blank" rel="nofollow" style="width:200%">
+    <a href="https://marmara.academia.edu/sercansebetci" target="_blank" style="width:200%">
         <img src="https://github.com/sebetci/sebetci.github.io/blob/main/images/networks/academia.svg" alt="Academia" width="30px" height="30px" />
     </a> &nbsp;
-    <a href="https://medium.com/@sercansebetci" target="_blank" rel="nofollow" style="width:200%">
+    <a href="https://medium.com/@sercansebetci" target="_blank" style="width:200%">
         <img src="https://github.com/sebetci/sebetci.github.io/blob/main/images/networks/medium.svg" alt="Medium" width="30px" height="30px" />
     </a> &nbsp;
 </p>
