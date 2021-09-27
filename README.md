@@ -82,10 +82,6 @@
   <a href="https://github.com/sebetci/sebetci.github.io/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" alt="MIT License">
   </a>
-  
-  <a href="https://codebeat.co/projects/github-com-sebetci-sebetci-github-io-master">
-    <img src="https://codebeat.co/badges/2ece0493-d114-435f-97cf-245d912dfb6f" alt="CodeBeat Badge">
-  </a>
 </p>
 
 <div class="header">
