@@ -22,21 +22,6 @@ hr {
     right: 0;
 }
 
-input {
-    display: inline-block;
-    width: 100px;
-    padding: 4px;
-    margin: 3px;
-}
-
-.logo {
-    height: 26px;
-    width: 26px;
-    background-size: contain;
-    margin: 8px;
-    float: left;
-}
-
 .navbar-items {
     float: right;
     padding: 10px;
@@ -52,6 +37,21 @@ input {
 
 .navbar-items a:hover {
     color: #2F90C2;
+}
+
+input {
+    display: inline-block;
+    width: 100px;
+    padding: 4px;
+    margin: 3px;
+}
+
+.logo {
+    height: 26px;
+    width: 26px;
+    background-size: contain;
+    margin: 8px;
+    float: left;
 }
 
 .shadow {
@@ -75,11 +75,6 @@ input {
     background-color: #fff;
 }
 
-.right-menu {
-    width: 22%;
-    float: left;
-}
-
 .profile-picture img {
     width: 200px;
     margin-top: 10px;
@@ -96,24 +91,9 @@ input {
     margin-left: 20px;
 }
 
-.education-list {
-    list-style: none;
-    padding: 0;
-}
-
 .profile-info h2 {
     margin: 0px;
     margin-top: 25px;
-}
-
-.education-list li {
-    font-size: 13px;
-}
-
-.gray-font {
-    font-size: 10px;
-    color: #808080;
-    margin-right: 15px;
 }
 
 .profile-top-ad h2,
@@ -128,6 +108,26 @@ h6 {
 .profile-top-ad,
 .blog-experience {
     padding: 30px;
+}
+
+.right-menu {
+    width: 22%;
+    float: left;
+}
+
+.education-list {
+    list-style: none;
+    padding: 0;
+}
+
+.education-list li {
+    font-size: 13px;
+}
+
+.gray-font {
+    font-size: 10px;
+    color: #808080;
+    margin-right: 15px;
 }
 
 #ad-button {
@@ -195,7 +195,7 @@ h6 {
 }
 
 #personalWebSite:hover {
-    color:rgb(0, 4, 255);
+    color: rgb(0, 4, 255);
 }
 
 #experienceLogo {
@@ -250,4 +250,15 @@ h6 {
 
 .random-user-name:hover {
     color: #77c9f0;
+}
+
+.rotateImage {
+    overflow: hidden;
+    transition-duration: 2.5s;
+    transition-property: transform;
+}
+
+.rotateImage:hover {
+    transform: rotate(360deg);
+    -webkit-transform: rotate(1800deg);
 }
