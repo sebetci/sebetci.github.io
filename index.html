@@ -29,59 +29,73 @@
 
 <body>
   <header id="header" class="fixed-top">
-    <nav class="navbar navbar-expand-xl navbar-light bg-white" id="navbar">
-      <div class="container-fluid px-md-5">
-        <a class="navbar-brand my-auto" href="/">
-          <!-- <img src="./assets/profile.png" alt="logo" style="width: 55px;"/> -->
-        </a>
-        <button class="navbar-toggler border-0 nav-toggle-btn" type="button" data-toggle="collapse"
-          data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"
-          id="burger">
-          <div class=""></div>
-          <div class=""></div>
-          <div class=""></div>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav ml-auto align-items-center justify-content-center">
-            <li class="nav-item active">
-              <a class="nav-link" href="#">Home</a>
-            </li>
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="#">Sercan Sebetçi</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
 
-            <li class="nav-item">
-              <a class="nav-link disabled" href="#">Projects</a>
-            </li>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+          </li>
+          
+          <li class="nav-item">
+            <a class="nav-link" href="#">Projects</a>
+          </li>
+          
+          <li class="nav-item">
+            <a class="nav-link" href="#">Experiences</a>
+          </li>
+          
+          <li class="nav-item">
+            <a class="nav-link" href="#">Research</a>
+          </li>
+          
+          <li class="nav-item">
+            <a class="nav-link" href="#">About</a>
+          </li>
+          
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">
+              Blog
+            </a>
+            
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="#">Software Engineering</a>
+              <a class="dropdown-item" href="#">Embedded System Engineering</a>
+              <a class="dropdown-item" href="#">Control Engineering</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Fundamental Sciences</a>
+            </div>
+          </li>
+        </ul>
+        
+        <div id="snipper" class="spinner-grow" role="status" style="margin-right: 10px; display: none;"></div>
 
-            <li class="nav-item">
-              <a class="nav-link disabled" href="#">Experiences</a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link disabled" href="#">Blog</a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link disabled" href="#">About</a>
-            </li>
-          </ul>
-        </div>
+        <form class="form-inline my-2 my-lg-0">
+          <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+          <button id="searchButton" type="button" class="btn btn-outline-success my-2 my-sm-0" data-toggle="popover" title="Warning" data-placement="bottom" data-content="This feature is not yet available!">Search</button>
+        </form>
       </div>
     </nav>
   </header>
+  
   <main>
     <div class="first-part">
       <div class="timer-wrapper">
         <div
           class="container d-flex text-center align-items-center justify-content-md-between flex-column flex-md-row justify-content-center">
-          <p class="typewrite" data-period="2000"
-            data-type='[ " Sercan Sebetçi, Mechatronic Engineer ", " A curious engineer eager to develop new things" ]'>
+          <p class="typewrite" data-period="2000" data-type='[ " Sercan Sebetçi, Mechatronic Engineer ", " A curious engineer eager to develop new things" ]'>
             <span class="wrap"></span>
-            id="text">
           </p>
         </div>
       </div>
 
       <div class="inner-wrapper">
         <h2 class="sam-h2" data-aos="fade-left"></h2>
+        
         <p class="container" data-aos-delay="400" data-aos="fade-in">
           I am a mechatronic engineer with a keen interest in robotics and autonomous systems. I worked as an embedded
           software engineer and electronic design engineer in many companies in Turkey. Recently I have been interested
@@ -89,29 +103,26 @@
           contribute to the open source community. I am also grateful for the many technical things I learned from the
           community.
         </p>
-        <div class="button-group" data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-delay="300"
-          data-aos-offset="0">
-
-          <a href="https://github.com/sebetci" class="btn link-btn mr-0 mr-md-4 outline sam-fortior"
-            style="width: 250px;">
-            GitHub</a>
-          <a href="https://stackoverflow.com/users/15032688/sercan"
-            class="btn link-btn mr-0 mr-md-4 outline sam-fortior" style="width: 250px;">
-            StackOverflow</a>
-          <a href="https://marmara.academia.edu/sercansebetci" class="btn link-btn ml-0 ml-md-4 outline sam-tiny"
-            style="width: 250px;">
-            Academia</a>
+        
+        <div class="button-group" data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-delay="300" data-aos-offset="0">
+          <a href="https://github.com/sebetci" class="btn link-btn mr-0 mr-md-4 outline sam-fortior" style="width: 250px;">GitHub</a>
+          <a href="https://stackoverflow.com/users/15032688/sercan" class="btn link-btn mr-0 mr-md-4 outline sam-fortior" style="width: 250px;">StackOverflow</a>
+          <a href="https://marmara.academia.edu/sercansebetci" class="btn link-btn ml-0 ml-md-4 outline sam-tiny" style="width: 250px;">Academia</a>
         </div>
       </div>
     </div>
+    
     <div class="pt-5 promotion">
       <div class="inner container">
         <h3 data-aos="fade-right">Technical Areas of Interest</h3>
+        
         <div class="row mx-auto cards-wrapper">
           <div class="col col-md-6 col-lg-4 mt-4">
             <div class="each-card" data-aos="fade-up">
               <img src="./assets/decentralized.svg" alt="" />
+              
               <h4>Software Engineering</h4>
+              
               <p>
                 I am interested in embedded software development, web software development, enterprise application
                 development and artificial intelligence technologies.
@@ -122,7 +133,9 @@
           <div class="col col-md-6 col-lg-4 mt-4">
             <div class="each-card" data-aos="fade-up" data-aos-delay="400">
               <img src="./assets/validate.svg" alt="" />
+              
               <h4>Embedded Systems</h4>
+              
               <p>
                 I am interested in embedded systems for the implementation of autonomous control algorithms on unmanned
                 system.
@@ -133,7 +146,9 @@
           <div class="col col-md-6 col-lg-4 mt-4">
             <div class="each-card" data-aos="fade-up" data-aos-delay="600">
               <img src="./assets/open.svg" alt="" />
+              
               <h4>Control Engineering</h4>
+              
               <p>
                 I am interested in control engineering for the electro-mechanical design, simulation and implementation
                 of autonomous control systems.
@@ -141,17 +156,21 @@
             </div>
           </div>
         </div>
+        
         <div class="link-read" data-aos="fade-in">
-          <a href="https://www.github.com/sebetci">Read More</a>
+          <!-- <a href="https://www.github.com/sebetci">Read More</a> -->
         </div>
       </div>
     </div>
+    
     <div class="growing">
       <div class="inner container">
         <div class="row mx-auto my-4 top">
           <div class="col-lg-7">
             <h2 data-aos="fade-right">A Growing Community</h2>
+            
             <img class="d-lg-none my-4" style="width: 100%; margin: auto" src="./assets/grow.svg" alt="" />
+            
             <p data-aos="fade-in" data-aos-delay="600">
               I develop many open source projects for which I have been dealing with software documentation,
               stabilization and optimization for a long time. The programming languages I use in the projects are: C,
@@ -169,77 +188,21 @@
         </div>
       </div>
     </div>
-
-    <!--
-          <div class="other-links" >
-            <a  data-aos="fade-left" href="https://dev.to/@sercan">Dev.To</a>
-            <a data-aos="fade-in"  data-aos-delay="1000" href="https://hashnode.com/@sercan">HashNode</a>
-            <a data-aos="fade-right" 
-              href="https://marmara.academia.edu/sercansebetci"
-              >Academia</a
-            >
-            <a data-aos="fade-right" 
-            href="https://medium.com/@sercansebetci"
-            >Medium</a
-          >
-          </div>
-      -->
-
   </main>
 
   <footer class="text-center text-white" style="background-color: #f1f1f1;">
-    <!-- Grid container -->
     <div class="container">
-      <!-- Section: Social media -->
       <section class="mb-2">
-        <!-- Twitter -->
-        <a class="btn btn-link btn-floating btn-lg text-light m-1" href="https://wwww.twitter.com/sercansebetci"
-          role="button" data-mdb-ripple-color="dark"><i class="fab fa-twitter"></i></a>
-
-        <!-- Google -->
-        <a class="btn btn-link btn-floating btn-lg text-light m-1" href="mailto:sercansebetci@gmail.com" role="button"
-          data-mdb-ripple-color="dark"><i class="fab fa-google"></i></a>
-
-        <!-- Github -->
-        <a class="btn btn-link btn-floating btn-lg text-light m-1" href="https://www.github.com/sebetci" role="button"
-          data-mdb-ripple-color="dark"><i class="fab fa-github"></i></a>
-
-        <a class="btn btn-link btn-floating btn-lg text-light m-1"
-          href="https://stackoverflow.com/users/15032688/sercan" role="button" data-mdb-ripple-color="dark"><i
-            class="fab fa-stack-overflow"></i></a>
-
-        <a class="btn btn-link btn-floating btn-lg text-light m-1" href="https://dev.to/@sercan" role="button"
-          data-mdb-ripple-color="dark">
-          <span class="iconify" data-icon="fa6-brands:dev"></span>
-        </a>
-
-        <a class="btn btn-link btn-floating btn-lg text-light m-1" href="https://hashnode.com/@sercan" role="button"
-          data-mdb-ripple-color="dark"><span class="iconify" data-icon="simple-icons:hashnode"></span>
-        </a>
-
-        <a class="btn btn-link btn-floating btn-lg text-light m-1" href="https://www.reddit.com/user/sercansebetci"
-          role="button" data-mdb-ripple-color="dark">
-          <span class="iconify" data-icon="akar-icons:reddit-fill"></span>
-        </a>
-
-        <a class="btn btn-link btn-floating btn-lg text-light m-1" href="https://www.kaggle.com/sercansebetci"
-          role="button" data-mdb-ripple-color="dark">
-          <span class="iconify" data-icon="cib:kaggle"></span>
-        </a>
-
-        <a class="btn btn-link btn-floating btn-lg text-light m-1" href="https://marmara.academia.edu/sercansebetci"
-          role="button" data-mdb-ripple-color="dark">
-          <span class="iconify" data-icon="academicons:academia"></span>
-        </a>
-
-        <a class="btn btn-link btn-floating btn-lg text-light m-1" href="https://medium.com/@sercansebetci"
-          role="button" data-mdb-ripple-color="dark">
-          <span class="iconify" data-icon="akar-icons:medium-fill"></span>
-        </a>
-
-
-
-
+        <a class="btn btn-link btn-floating btn-lg text-light m-1" href="https://wwww.twitter.com/sercansebetci" role="button" data-mdb-ripple-color="dark"><i class="fab fa-twitter"></i></a>
+        <a class="btn btn-link btn-floating btn-lg text-light m-1" href="mailto:sercansebetci@gmail.com" role="button" data-mdb-ripple-color="dark"><i class="fab fa-google"></i></a>
+        <a class="btn btn-link btn-floating btn-lg text-light m-1" href="https://www.github.com/sebetci" role="button" data-mdb-ripple-color="dark"><i class="fab fa-github"></i></a>
+        <a class="btn btn-link btn-floating btn-lg text-light m-1" href="https://stackoverflow.com/users/15032688/sercan" role="button" data-mdb-ripple-color="dark"><i class="fab fa-stack-overflow"></i></a>
+        <a class="btn btn-link btn-floating btn-lg text-light m-1" href="https://dev.to/@sercan" role="button" data-mdb-ripple-color="dark"> <span class="iconify" data-icon="fa6-brands:dev"></span> </a>
+        <a class="btn btn-link btn-floating btn-lg text-light m-1" href="https://hashnode.com/@sercan" role="button" data-mdb-ripple-color="dark"><span class="iconify" data-icon="simple-icons:hashnode"></span> </a>
+        <a class="btn btn-link btn-floating btn-lg text-light m-1" href="https://www.reddit.com/user/sercansebetci" role="button" data-mdb-ripple-color="dark"><span class="iconify" data-icon="akar-icons:reddit-fill"></span></a>
+        <a class="btn btn-link btn-floating btn-lg text-light m-1" href="https://www.kaggle.com/sercansebetci" role="button" data-mdb-ripple-color="dark"><span class="iconify" data-icon="cib:kaggle"></span></a>
+        <a class="btn btn-link btn-floating btn-lg text-light m-1" href="https://marmara.academia.edu/sercansebetci" role="button" data-mdb-ripple-color="dark"><span class="iconify" data-icon="academicons:academia"></span></a>
+        <a class="btn btn-link btn-floating btn-lg text-light m-1" href="https://medium.com/@sercansebetci" role="button" data-mdb-ripple-color="dark"><span class="iconify" data-icon="akar-icons:medium-fill"></span></a>
       </section>
     </div>
 
@@ -249,14 +212,16 @@
     </div>
   </footer>
 
-  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
-    integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
-    crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"
-    integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF"
-    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
   <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-
+  <script src="https://code.iconify.design/2/2.1.2/iconify.min.js"></script>
+  <script src="./scripts/header.js"></script>
+  <script src="./scripts/github.js"></script>
+  <script src="./scripts/swiper.js"></script>
+  <script src="./scripts/animation.js"></script>
+  <script src="./scripts/mixed.js"></script>
+  
   <script>
     AOS.init({
       delay: 200,     // values from 0 to 3000, with step 50ms
@@ -265,12 +230,6 @@
       mirror: false,  // whether elements should animate out while scrolling past them
     });
   </script>
-
-  <script src="./scripts/header.js"></script>
-  <script src="./scripts/github.js"></script>
-  <script src="./scripts/swiper.js"></script>
-  <script src="./scripts/animation.js"></script>
-  <script src="https://code.iconify.design/2/2.1.2/iconify.min.js"></script>
 
   <script>
     const swiper = new Swiper(".swiper", {
