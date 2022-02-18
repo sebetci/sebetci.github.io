@@ -46,7 +46,7 @@ fetch("https://api.github.com/users/sebetci/repos")
                                 <p>${each.stargazers_count}</p>
                             </div>
                         </div>
-                        <a href="${each.html_url}" style="width: 100% !important;">View Project</a>
+                        <a href="${each.html_url}">View Project</a>
                     </div>
                     <div class="right d-none d-md-flex">
                         <div class="share">
