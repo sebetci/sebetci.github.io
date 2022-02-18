@@ -14,6 +14,7 @@
 [comment]: # "9. Medium"
 [comment]: # "####################################################################"
 
+<!--
 <p align="center">
     <a href="https://twitter.com/sercansebetci" target="_blank">
         <img src="https://github.com/sebetci/sebetci.github.io/blob/main/images/networks/twitter.svg" alt="Twitter" width="30px" height="30px" />
@@ -49,6 +50,7 @@
         <img src="https://github.com/sebetci/sebetci.github.io/blob/main/images/networks/medium.svg" alt="Medium" width="30px" height="30px" />
     </a> &nbsp;
 </p>
+-->
 
 [comment]: # "####################################################################"
 [comment]: # "Repository Badges"
@@ -85,9 +87,10 @@
 </p>
 
 <div class="header">
-    <h3 style="color:back;" align="center">Portfolio</h3>
+    <h3 style="color:back;" align="center">My Personal Web Site</h3>
     <p style="color:black;">
         Visit my online portfolio at <a href="http://sebetci.github.io/">GitHub Pages</a>.
         Contact me at <a href="mailto:sercansebetci@gmail.com">sercansebetci@gmail.com</a>.
+        This website was developed by forking from the <a href="https://github.com/ChoiceCoin/ChoiceCoin.github.io">ChoiceCoin/ChoiceCoin.github.io</a> repository.
     </p>
 </div>
