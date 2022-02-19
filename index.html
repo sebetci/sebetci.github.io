@@ -17,26 +17,35 @@
   <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="./styles//swiper.css" />
   <link rel="stylesheet" href="./styles/index.css" />
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css">
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+
   <title>Sercan Sebetçi</title>
 </head>
 <body>
   <header id="header" class="fixed-top">
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="#">Sercan Sebetçi</a>
+
+      <div>
+        <img id="profile-image" src="./assets/favicon.ico" alt="Contact Person">
+      </div>
+
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
 
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
-          <li class="nav-item active"><a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a></li>
-          <li class="nav-item"><a class="nav-link" href="#">Projects</a></li>
-          <li class="nav-item"><a class="nav-link" href="#">Experiences</a></li>
-          <li class="nav-item"><a class="nav-link" href="#">Research</a></li>
-          <li class="nav-item"><a class="nav-link" href="#">About</a></li>
+          <li class="nav-item active"><a id="home-page" class="nav-link" href="#">Home <span class="sr-only">(current)</span></a></li>
+          <li class="nav-item"><a id="project-page" class="nav-link" href="#">Projects</a></li>
+          <li class="nav-item"><a id="experience-page" class="nav-link" href="#">Experiences</a></li>
+          <li class="nav-item"><a id="research-page" class="nav-link" href="#">Research</a></li>
+          <li class="nav-item"><a id="about-page" class="nav-link" href="#">About</a></li>
 
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Blog</a>
+            <a id="blog-page" class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Blog</a>
 
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               <a class="dropdown-item" href="#">Software Engineering</a>
@@ -46,6 +55,9 @@
               <a class="dropdown-item" href="#">Fundamental Sciences</a>
             </div>
           </li>
+
+          <div id="snipper2" class="spinner-border text-dark" role="status" style="float: left; display: none;">
+          </div>
         </ul>
 
         <div id="snipper" class="spinner-grow" role="status" style="margin-right: 10px; display: none;"></div>
@@ -88,7 +100,7 @@
     <div class="pt-5 promotion">
       <div class="inner container">
         <h3 data-aos="fade-right">Technical Areas of Interest</h3>
-        
+
         <div class="row mx-auto cards-wrapper">
           <div class="col-12 col-lg-4 mt-4">
             <div class="each-card" data-aos="fade-up">
