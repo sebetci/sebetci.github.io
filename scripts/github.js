@@ -25,7 +25,6 @@ const chosen = [
   "MVC",
   "CPP-Fundamentals",
   "Node.js-Apps",
-  "WEB-Apps",
   "ASP.NET",
   "jQuery-Apps",
   "Windows-Forms",
