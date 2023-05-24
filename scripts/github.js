@@ -1,10 +1,44 @@
 const cardsContainer = document.getElementById("dynamic");
 
 const chosen = [
-"sebetci",
-"sebetci.github.io",
-"CodeFormatter",
-"Enterprise-Application"
+  "sebetci",
+  "sebetci.github.io",
+  "CodeFormatter",
+  "WebSocket.SocketIO.App.ChatDad",
+  "WebSocket.SocketIO.App.LiveBalls",
+  "Node.js-Docs",
+  "WebSocket.SocketIO",
+  "QT-WIDGET-FUNDAMENTALS",
+  "C-Fundamentals",
+  "ExpressMovieRestAPI",
+  "JavaScript-Apps",
+  "JavaScript-Fundamentals",
+  "ADO.NET",
+  "QML-Fundamentals",
+  "Core",
+  "Batch-Script-Fundamentals",
+  "jQuery-Fundamentals",
+  "CSharp-Fundamentals",
+  "CleanCode-Apps",
+  "Entity-Framework",
+  "CleanCode-Docs",
+  "MVC",
+  "CPP-Fundamentals",
+  "Node.js-Apps",
+  "WEB-Apps",
+  "ASP.NET",
+  "jQuery-Apps",
+  "Windows-Forms",
+  "HMI.TCP.CLIENT",
+  "HMI.TCP.SERVER",
+  "Node-Apps",
+  "Android-Apps",
+  "SHW-MCS",
+  "CSharp-Docs",
+  "Java-Docs",
+  "Java-Fundamentals",
+  "Angular-Docs",
+  "NET-Docs" 
 ];
 
 fetch("https://api.github.com/users/sebetci/repos")
